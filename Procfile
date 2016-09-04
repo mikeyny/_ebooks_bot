@@ -1,1 +1,1 @@
-worker: python markov_quotes.py
+worker: python bot.py
